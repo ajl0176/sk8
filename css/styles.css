@@ -1,0 +1,56 @@
+body {
+  font-family: Helvetica, sans-serif;
+  color: #3e3e3e;
+}
+
+body {
+  background-image: url("./../images/bg.jpg");
+  background-size: cover;
+}
+
+h5 {
+  color: white;
+  font-size: 9px;
+  position: relative;
+  left: 746px;
+  top: 23px;
+}
+
+.myButton {
+  background-color: #C2001D;
+  border-bottom: 3px solid lightgray;
+  display: inline-block;
+  position: relative;
+  left: 24%;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 12px;
+  padding: 5px 37px;
+  text-decoration: none;
+  margin-top: 45px;
+  margin-left: 2px;
+}
+
+#cameraman {
+  position: absolute;
+  margin: auto;
+  left: 350px;
+  margin-top: 12px;
+}
+
+#grid {
+  position: absolute;
+  margin: auto;
+  left: 350px;
+  margin-top: 12px;
+}
+
+#eagle {
+  position: absolute;
+  margin: auto;
+  left: 366px;
+  margin-top: 65px;
+}
+
+/*# sourceMappingURL=styles.css.map */
